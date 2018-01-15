@@ -1,6 +1,4 @@
 # hello-world
 My First Repository
-
-Hi,
-
+Hi
 I'm enthusiastic about curry & JD.
